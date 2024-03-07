@@ -1,0 +1,71 @@
+*{
+    margin:0;
+    padding: 0%;
+}
+.menu{
+    display: flex;
+    background-color: white;
+
+}
+.leftcontent{
+    margin-top: 20px;
+    padding-right: 100px;
+}
+.logo{
+    font-size: x-large;
+    text-align: left;
+    color: red;
+    display: grid;
+}
+.button{
+    background-color: red;
+}
+h1 {
+    color: red;
+}
+.concurrenttext{
+    color: black;
+}
+
+.initial button{
+    background-color: red;
+    color: white;
+}
+.trialone{
+    display: flex;
+    padding-top: 100px;
+    font-size: 30px;
+}
+.initialbutton{
+    background-color: red;
+    color: white;
+}
+.concurrentbutton{
+    border: crimson;
+}
+.ofactionbtn{
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    background-color: red;
+}
+.loginbtn{
+    background-color: grey;
+}
+
+.hero-image img{ 
+    height: 500px;
+    width: 500px;
+}
+.navbar{
+    background-color: white;
+    padding-right: 100px;
+}
+.rightcontent{
+    text-align: right;
+    padding-top: 20px;
+}
+.loginbtn{
+    background-color: grey;
+    text-align: right;
+}
