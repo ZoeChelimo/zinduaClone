@@ -8,14 +8,17 @@
 
 }
 .leftcontent{
-    margin-top: 20px;
+    display: flex;
+    padding: 20px;
+    word-spacing: 10px;
     padding-right: 100px;
+    align-items: center;
 }
+
 .logo{
-    font-size: x-large;
-    text-align: left;
-    color: red;
-    display: grid;
+    width: 478px;
+    height: 230px;
+    align-items: center;
 }
 .button{
     background-color: red;
@@ -60,6 +63,7 @@ h1 {
 .navbar{
     background-color: white;
     padding-right: 100px;
+    display: flex;
 }
 .rightcontent{
     text-align: right;
@@ -68,4 +72,17 @@ h1 {
 .loginbtn{
     background-color: grey;
     text-align: right;
+}
+.prog{
+    padding: 20px;
+    font-size: 40px;
+}
+.financingplans{
+    padding: 20px;
+}
+.resources{
+    padding: 20px;
+}
+.more{
+    padding: 20px;
 }
